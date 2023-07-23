@@ -1,7 +1,7 @@
-# ToDoApp using React-Redux and Framer-motion
+# ToDoApp using React-Redux and Framer-motion with all the CRUD operations.
 ## To-Run:
 
-click on the following link: <br />
+Click on the following link to checkout the website: <br />
 [To-Do-App](reactredux-todoapp.vercel.app) <br />
 
 Or<br /> 
