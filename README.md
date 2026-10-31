@@ -1,4 +1,7 @@
 # ToDoApp using React-Redux and Framer-motion with all the CRUD operations.
+
+> Learning project from July 2023.
+
 ## To-Run:
 
 Click on the following link to checkout the website: <br />
